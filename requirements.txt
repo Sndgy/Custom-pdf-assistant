@@ -1,0 +1,14 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+InstructorEmbedding
+google-generativeai
+langchain-google-genai
+faiss-cpu
+altair
+tiktoken
+sentence-transformers
+transformers
+langchain_community
+langchain_core
